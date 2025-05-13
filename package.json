@@ -1,0 +1,29 @@
+{
+  "name": "kafka-nodejs",
+  "version": "1.0.0",
+  "description": "Integrating and using Kafka with Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thebigyovadiaz/kafka-nodejs.git"
+  },
+  "keywords": [
+    "Kafka",
+    "Node.js",
+    "Event Driven",
+    "Event Streaming"
+  ],
+  "author": "Yovanny Diaz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thebigyovadiaz/kafka-nodejs/issues"
+  },
+  "homepage": "https://github.com/thebigyovadiaz/kafka-nodejs#readme",
+  "dependencies": {
+    "chance": "^1.1.12",
+    "kafkajs": "^2.2.4"
+  }
+}
